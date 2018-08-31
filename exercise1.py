@@ -1,3 +1,6 @@
+#Every function uses a file named "dictionary.txt"
+#You can open filename outside and use it as global variable
+
 #Create a function to read a file line by line and store it into a list
 def content_list(filename):
     return
